@@ -5,7 +5,7 @@ datePublished: Sat Jul 22 2023 17:13:55 GMT+0000 (Coordinated Universal Time)
 cuid: clke9ruos000j09md9mjsgyia
 slug: links-page
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1690045880772/c1692cda-01e9-4372-8d83-81d913c06bf4.jpeg
-tags: code, development, developer, codenewbies, links
+tags: code, development, developer, codenewbie, links
 
 ---
 
@@ -32,6 +32,8 @@ https://cargo.site/
 [https://pub49.bravenet.com/members/](https://pub49.bravenet.com/members/)
 
 [https://vercel.com/dashboard](https://vercel.com/dashboard)
+
+https://hpanel.hostinger.com/
 
 ## Edu
 
@@ -62,3 +64,11 @@ https://degrazia.cargo.site/
 [https://jenonymous-dev.github.io/jenonymous-dev/](https://jenonymous-dev.github.io/jenonymous-dev/)
 
 [https://codeberg.org/jenonymous-dev](https://codeberg.org/jenonymous-dev)
+
+https://angry-possum.com/
+
+## **Resource**
+
+https://www.urbandictionary.com/define.php?term=Jennifer
+
+https://www.getselfhelp.co.uk/downloads/
